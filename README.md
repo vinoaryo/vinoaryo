@@ -7,7 +7,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Web Development.\
 ✍️ &nbsp;In my free time, I learn to make website and learn programming.\
-✉️ &nbsp;You can shoot me an email at vinoaryo2000@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at vinoaryo2000@gmail.com! I'll try to respond as soon as I can.
 
 
 ### 🛠 &nbsp;Tech Stack
