@@ -24,14 +24,14 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
+  <a href="https://vinoweb.netlify.app">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vinoaryo&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinoaryo&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Vinoaryo Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=vinoaryo's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Vinoaryo Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=vinoaryo's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://vinoweb.netlify.app)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
