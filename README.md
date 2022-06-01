@@ -1,13 +1,11 @@
 ```zsh
 > neofetch
 ```
-<img src="">
-
+<img align="left" src="https://github.com/vinoaryo/vinoaryo/blob/main/assets/logo.png" alt="logo.png" width="200" /> 
 
 ```csharp
 vinoaryo@github
 ----------------
-
 OS  :  Windows 11 Pro Insider Preview x86_64
 WM  :  Explorer
 Shell  :  bash 4.4.23
