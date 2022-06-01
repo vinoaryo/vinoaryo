@@ -1,9 +1,6 @@
 ```zsh
 > neofetch
 ```
-
-<img align="left" src="https://github.com/vinoaryo/vinoaryo/blob/main/assets/logo.png" alt="logo.png" width="200" /> 
-
 ```csharp
         ,.=:!!t3Z3z.,                  vinoa@DESKTOP-IJDNQB9
        :tt:::tt333EE3                  ---------------------
