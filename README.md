@@ -14,8 +14,10 @@ Languages  :  ["NodeJS", "Python", "Javascript"]
   Discord  :  563918179123068928
      Email : vinoaryo2000@gmail.com
 ```
+<div style="text-align: center;">
 ```json
-Knowledge is power.
+Be the one.
 ```
+</div>
 
 <a href="https://dsc.gg/ds-discord" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
