@@ -18,4 +18,4 @@ Languages  :  ["NodeJS", "Python", "Javascript", "C#", "Laravel"]
 Be the one.
 ```
 
-<a href="https://dsc.gg/ds-discord" target="_blank"><img src="https://github.com/vinoaryo/vinoaryo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+<a href="https://github.com/vinoaryo" target="_blank"><img src="https://github.com/vinoaryo/vinoaryo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
