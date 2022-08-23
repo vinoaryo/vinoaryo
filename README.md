@@ -10,7 +10,7 @@ vinoaryo@github
        WM  :  Explorer
     Shell  :  bash 4.4.23
       CPU  :  Intel i5-6200U (4) @ 2.400GHz
-Languages  :  ["NodeJS", "Python", "Javascript"]
+Languages  :  ["NodeJS", "Python", "Javascript", "C#", "Laravel"]
   Discord  :  563918179123068928
      Email : vinoaryo2000@gmail.com
 ```
