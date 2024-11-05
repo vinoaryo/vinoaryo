@@ -22,7 +22,7 @@ Languages  :  ["NodeJS", "Python", "Javascript", "C#", "Laravel"]
 
 <div align="center">
   <div style="width: 100%; text-align: center;">
-       <a href="https://github.com/vinoaryo" target="_blank"><img src="https://github.com/vinoaryo/vinoaryo/blob/output/github-contribution-grid-snake.svg"                alt="snake"></a>
+      <img src="https://profile-counter.glitch.me/vinoaryo/count.svg"/>
   </div>
 
        
